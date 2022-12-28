@@ -1,2 +1,1 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={parkjow96})](https://solved.ac/{parkjow96})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={parkjow96})](https://solved.ac/{parkjow96})
